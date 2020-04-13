@@ -6,3 +6,4 @@
 ###13-04-2020
 * [Event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
 * [Tell-Don't-Ask](https://martinfowler.com/bliki/TellDontAsk.html)
+* [Good resources for technical problems](https://blog.usejournal.com/i-failed-my-effing-coding-interview-ab720c339c8a)
