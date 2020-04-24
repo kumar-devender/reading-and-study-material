@@ -64,10 +64,15 @@ Cycle time : new task’s enters the “in progress” stage and somebody is act
 
 
 Reference link
+
 https://www.atlassian.com/agile
+
 https://www.atlassian.com/agile/kanban/kanban-vs-scrum
+
 https://www.planview.com/resources/articles/what-is-self-organizing-team/
+
 https://www.scrumguides.org/scrum-guide.html
+
 https://kanbanize.com/blog/kanban-vs-scrum-infographic/
 
 
