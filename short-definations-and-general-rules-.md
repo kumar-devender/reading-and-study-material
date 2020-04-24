@@ -7,6 +7,7 @@
 * Abstraction hides details at the design level.
 * Abstraction hides complexity by giving you a more abstract picture(generalize view), a sort of 10,000 feet view.
 * Coding for interfaces then implementation helps you to write flexible code. Use Map instead of HashMap, Use List instead of ArrayList.
+* Abstraction lets you focus on what the object does instead of how it does it.
 ##### Maintainable
 * You should be able to change the implementation without changing the client. In another way without changing the client. Class is completely isolation. Your class should not know who is using it.
 ##### Code fragility
