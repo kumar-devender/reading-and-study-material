@@ -1,3 +1,19 @@
+#### SDLC model/methodologies
+* Waterfall
+* Agile
+* spiral
+* rapid prototyping,
+* incremental
+* synchronize and stabilize
+#### SDLC Phases
+* Planning(Resource allocation, Capacity planning, Project scheduling, Cost estimation). Some people do not consider it.
+* Requirements analysis(output SRS)
+* Design and prototyping
+* Software development
+* Testing
+* Deployment
+* Operations and maintenance
+
 #### Waterfall
 * Waterfall works best for projects completed in a linear/sequential fashion and does not allow going back to a prior phase.
 * originated in construction and manufacturing—industries where one phase must be completed before another begins.
@@ -5,14 +21,6 @@
 * Any revision requires restarting the entire process.
 * Because Waterfall does not allow going back to a prior phase, project requirements need to be clear up front.
 * Less flexibility.
-* Steps
-  - Requirement gathering and documentation
-  - System design
-  - Implementation(building and design)
-  - Integration and testing
-  - Delivery and deployment
-  - Maintenance
-  - Repeat ........
 
 #### Agile
 * It is a collaborative, self-organizing,iterative , cross-functional approach to completing work and requirements.
@@ -61,7 +69,6 @@
 
 Lead time : new task’s appearance in your workflow and its final departure from the system
 Cycle time : new task’s enters the “in progress” stage and somebody is actually working on it
-
 
 Reference link
 

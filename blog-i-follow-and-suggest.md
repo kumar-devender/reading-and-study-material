@@ -34,4 +34,4 @@ https://martinfowler.com/eaaCatalog
 
 [Various computer science courses](https://cuvids.io/)
 
-
+[Many Spring cloud related presentation by pivotal team](https://www.youtube.com/channel/UC7yfnfvEUlXUIfm8rGLwZdA)

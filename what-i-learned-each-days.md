@@ -15,8 +15,19 @@
 * Seed in random number generation. For the same seed there will be same sequence of random number.
 * Encryption vs encoding
 
-#### 24-03-2020
+#### 24-05-2020
 * [Agile manifesto](http://agilemanifesto.org/principles.html)
+
+#### 06-05-2020
+[Configuration mgmt vs provisioning tool(Teraform vs ansible)](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c)
+[ECS using console](https://app.pluralsight.com/library/courses/aws-managing-docker-containers/table-of-contents)
+#### 08-05-2020
+[Basic of docker](https://medium.com/codingthesmartway-com-blog/docker-beginners-guide-part-1-images-containers-6f3507fffc98)
+[ECS basics](https://blog.toadworld.com/2018/04/09/using-toad-edge-preview-2-0-0-with-postgresql-10-on-amazon-ecs-fargate-part-1)
+
+#### 15-05-2020
+[Ephemeral port](https://www.whizlabs.com/blog/ephemeral-ports/)
+[Ephemeral port](https://www.ncftp.com/ncftpd/doc/misc/ephemeral_ports.html )
 
 
 

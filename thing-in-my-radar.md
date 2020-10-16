@@ -1,6 +1,8 @@
+Basic, Digest, Oauth2, JWT, Spring security
+
 ELK set up from scratch
 CI/CD pipe line
-Distributed monitoring and tracing set up from scratch
+Distributed monitoring and tracing set up from scratch including async operations
 Distributed locking from scratch
 Distributed Transaction from scratch using 2 Phase protocol, using orchestration saga and using choreography
 Kubernetes https://medium.com/free-code-camp/how-to-scale-microservices-with-message-queues-spring-boot-and-kubernetes-f691b7ba3acf
@@ -12,6 +14,14 @@ Automated pipe line for new project into production(Creating repo, build pipe li
 AWS sqs-sns pub sub demo
 [POC on gRPC](https://code.tutsplus.com/tutorials/rest-vs-grpc-battle-of-the-apis--cms-30711)
 JAX-RS and JAX-WS examples
+Rule engine
+Multi Tenant Application
 JAXB example
+POC spark DI
+POC javalin rest
+Ansible
+Teraform
+nginx
+
 
 

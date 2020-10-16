@@ -11,3 +11,8 @@
 ### 15-04-2020
 [How Does Spring @Transactional Really Work?](https://dzone.com/articles/how-does-spring-transactional)
 [Distributed transaction using 2PCP](https://spring.io/blog/2011/08/15/configuring-spring-and-jta-without-full-java-ee/)
+### 26-04-2020
+[No Authorization Server Support](https://spring.io/blog/2019/11/14/spring-security-oauth-2-0-roadmap-update)
+### 20-04-2020
+[Why closing input stream is important](https://stackoverflow.com/questions/26541513/why-is-it-good-to-close-an-inputstream/26541624)
+[Aws solution architect professional](https://linuxacademy.com/cp/modules/view/id/245)
